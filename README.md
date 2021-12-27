@@ -2,6 +2,8 @@
 
 ◼️ Atualmente trabalho como fullstack developer(🎨 Front End: ASP.NET Core, React e 🖥️ Back End: .net framework, .net core).
 
+◼️ Currently working as a fullstack developer(🎨 Front End: ASP.NET Core, React and 🖥️ Back End: .net framework, .net core).
+
 
  <div>
   <a href="https://github.com/Kevinc06">
