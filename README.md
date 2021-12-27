@@ -1,5 +1,8 @@
 ### Oi, Eu sou o Kevin, Prazer em conhecer você / Hi i'm Kevin, nice to meet you 👋
 
+◼️ Atualmente trabalho como fullstack developer(🎨 Front End: ASP.NET Core, React e 🖥️ Back End: .net framework, .net core).
+
+
  <div>
   <a href="https://github.com/Kevinc06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevinc06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
